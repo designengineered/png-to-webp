@@ -9,6 +9,7 @@ This is a Python script that converts PNG images to WebP format in bulk. The use
 
 ## Installation
 
+For all these code snippets use your terminal of choice. You can honestly copy and paste in the presented order and it should work.
 1. Clone the repository:
 
     ```bash
@@ -34,12 +35,12 @@ This is a Python script that converts PNG images to WebP format in bulk. The use
 
 6. Running the script
 After installing the dependencies, you can run the main.py script:
-    ```python
-    python main.py
+   ```python
+   python main.py
 
 7. Deactivating the Virtual Environment
 
-After you're done running the script, you can deactivate the virtual environment:
+   After you're done running the script, you can deactivate the virtual environment:
 
-```bash
-deactivate
+   ```bash
+   deactivate

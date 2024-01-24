@@ -12,7 +12,7 @@ This is a Python script that converts PNG images to WebP format in bulk. The use
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/laztaxon/png_to_webp-converter.git
+    git clone https://github.com/laztaxon/png-to-webp.git
     ```
 
 2. Install Python:
